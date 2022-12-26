@@ -1,2 +1,2 @@
 # Sum_Digits
-Recursive function to compute the sum digits of any given number. 
+Recursive function to compute the sum of digits for any given number. 
