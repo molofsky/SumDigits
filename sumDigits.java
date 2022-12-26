@@ -1,8 +1,8 @@
 /** Recursive function to compute the sum of digits for
 * any given number. 
 *
-*@author Adrian Molofsky
-*@version 12/26/22
+* @author Adrian Molofsky
+* @version 12/26/22
 */
 
 
