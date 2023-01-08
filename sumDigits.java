@@ -13,8 +13,7 @@ class sumDigits
     {
     }
     /** The purpose of this method is to use recursive calls to return the rightmost digit of
-    * a number, i.e. by taking the mod of that number and if the mod of the number. Returns
-    * the number if that number is a single digit.
+    * a number, i.e. by taking the mod of that number. Returns the number if that number is a single digit.
     *
     */
     
