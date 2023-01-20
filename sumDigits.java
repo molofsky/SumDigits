@@ -6,7 +6,7 @@
 */
 
 
-import java.util.Scanner;
+import java.util.*; // includes the Java utility packages
 class sumDigits
 {
     sumDigits()          // default constructor
