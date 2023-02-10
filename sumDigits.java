@@ -7,7 +7,7 @@
 
 
 import java.util.*; // includes the Java utility packages
-class sumDigits
+public class sumDigits
 {
     sumDigits()          // default constructor
     {
